@@ -16,3 +16,4 @@ Scans individual station `.dat` files and reports start and end timestamps for e
 python merge_dat_simple.py --src "path/to/station" --dst "path/to/output" --dry-run
 remove --dry-run to merge
 python scan_station_dates.py --src "path/to/station"
+python download_station_files.py "station name i.e kalabo" "folder name ie kalabo"
