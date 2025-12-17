@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+*.dat
+*.csv
+*.xlsx
+
+# Output folders
+MergedOutput/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Virtual environments (if you ever add one)
+venv/
+.env/
