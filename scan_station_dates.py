@@ -1,3 +1,5 @@
+#this script scans a station folder containing .dat files and reports the start and end timestamps for each file along with its detected type.
+
 import os
 import argparse
 from datetime import datetime
